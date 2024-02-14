@@ -23,7 +23,7 @@ You can find the code for this project [here](https://github.com/Harsh-Rai-98/Fa
 To follow this project, please install the following locally:
 
 - Matlab
-- Computer Vision Toolbox
+- Computer Vision
 - Matlab packages :
     - MATLAB Support Package for USB Webcams
     - Deep Learning Toolbox
